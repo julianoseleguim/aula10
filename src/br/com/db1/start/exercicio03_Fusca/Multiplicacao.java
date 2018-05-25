@@ -1,4 +1,4 @@
-package br.com.db1.start.exercicio03;
+package br.com.db1.start.exercicio03_Fusca;
 
 public class Multiplicacao implements OperacaoMatematica {
 
