@@ -1,6 +1,6 @@
 package br.com.db1.start.exercicio05;
 
-public abstract class TransporteAquatico {
+public class TransporteAquatico {
 	
 	private String nome;
 	
