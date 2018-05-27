@@ -32,10 +32,6 @@ public class Calculadora {
 		return resultado;
 	}
 	
-	public Calculadora() {
-		Calculadora calculadora = new Calculadora();
-	}
-
 	public Double getPrimeiroValor() {
 		return primeiroValor;
 	}
